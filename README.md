@@ -2,10 +2,10 @@
 
 The thesis is written in Polish but here you can find the translation of title and abstract to English.
 
-### Title
+## Title
 An overview of synchronization methods in Unix-like kernels and an implementation of turnstiles in Mimiker OS
 
-### Abstract
+## Abstract
 As Moore's Law ends to apply and single processors don't increase their performance
 as regularly as in the past, parallel and concurrent processing is becoming more and more important today.
 Such models of computation imply a lot of synchronization-related problems. In this paper we'll explain
