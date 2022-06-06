@@ -1,9 +1,17 @@
-# bachelors-thesis
+# Bachelor's thesis
 
-The thesis is written in Polish but here you can find the translation of title and abstract to English.
+Note: The thesis is written in Polish
+
+## Author
+
+Julian Pszczołowski
 
 ## Title
 An overview of synchronization methods in Unix-like kernels and an implementation of turnstiles in Mimiker OS
+
+## Year
+
+2018
 
 ## Abstract
 As Moore's Law ends to apply and single processors don't increase their performance
